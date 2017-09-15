@@ -12,3 +12,10 @@ body {
     min-height: 55vw;
     overflow: hidden;
 }
+
+.layer {
+    position: absolute;
+    width: 100vw;
+    min-height: 55vw;
+    overflow: hidden;
+}
