@@ -19,3 +19,9 @@ body {
     min-height: 55vw;
     overflow: hidden;
 }
+
+.layer .content-wrap {
+    position: absolute;
+    width: 100vw;
+    min-height: 55vw;
+}
