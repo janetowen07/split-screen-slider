@@ -33,3 +33,11 @@ body {
     text-align: center;
     transform: translateY(-50%);
 }
+
+.layer img {
+    position: absolute;
+    width: 35%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+}
