@@ -82,3 +82,8 @@ body {
     left: 50%;
     z-index:3;
 }
+
+.skewed .handle {
+    top: 50%;
+    transform: rotate(30deg) translateY(-50%);
+}
