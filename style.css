@@ -86,4 +86,6 @@ body {
 .skewed .handle {
     top: 50%;
     transform: rotate(30deg) translateY(-50%);
+    height: 200%;
+    transform-origin: top;
 }
