@@ -71,3 +71,14 @@ body {
     left: 5%;
     color: #222;
 }
+
+.handle {
+    position: absolute;
+    height: 100%;
+    display: block;
+    background-color: #FDAB00;
+    width: 10px;
+    top: 0;
+    left: 50%;
+    z-index:3;
+}
